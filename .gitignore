@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ch15/MyFirstPackage/.vs/MyFirstPackage
+/ch15/MyFirstPackage/MyFirstPackage/bin/Debug
+/ch15/MyFirstPackage/MyFirstPackage/obj
