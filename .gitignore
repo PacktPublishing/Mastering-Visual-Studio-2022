@@ -12,3 +12,10 @@
 /ch05/MauiDemo/.vs/MauiDemo
 /ch05/MauiDemo/MauiDemo/bin/Debug
 /ch05/MauiDemo/MauiDemo/obj
+/ch04/ProfilerDemo/.vs
+/ch04/ProfilerDemo/Database/bin
+/ch04/ProfilerDemo/Database/obj
+/ch04/ProfilerDemo/DemoCPU/bin
+/ch04/ProfilerDemo/DemoCPU/obj
+/ch04/ProfilerDemo/MemoryLeak/bin
+/ch04/ProfilerDemo/MemoryLeak/obj
