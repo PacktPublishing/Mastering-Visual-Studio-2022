@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sandbox.Market": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    }
+  }
+}
