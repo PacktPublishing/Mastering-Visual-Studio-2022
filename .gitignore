@@ -19,3 +19,7 @@
 /ch04/ProfilerDemo/DemoCPU/obj
 /ch04/ProfilerDemo/MemoryLeak/bin
 /ch04/ProfilerDemo/MemoryLeak/obj
+/ch13/DummyArchSolution/.vs
+/ch13/DummyArchSolution/DummyArchSolution/Application/obj
+/ch13/DummyArchSolution/DummyArchSolution/Models/obj
+/ch13/DummyArchSolution/DummyArchSolution/Web/obj
