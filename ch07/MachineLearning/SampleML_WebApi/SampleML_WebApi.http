@@ -1,0 +1,11 @@
+﻿@SampleML_WebApi_HostAddress = https://localhost:63555
+
+POST {{SampleML_WebApi_HostAddress}}/predict
+Content-Type: application/json
+
+{
+    "Month": "2-Jan"
+}
+
+
+###

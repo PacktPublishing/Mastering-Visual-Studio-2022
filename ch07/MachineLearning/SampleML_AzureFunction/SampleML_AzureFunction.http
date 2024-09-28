@@ -1,0 +1,9 @@
+﻿@SampleML_AzureFunction_HostAddress = http://localhost:7002
+
+POST {{SampleML_AzureFunction_HostAddress}}/api/FunctionML
+Content-Type: application/json
+
+{
+    "Month": "2-Jan"
+}
+###

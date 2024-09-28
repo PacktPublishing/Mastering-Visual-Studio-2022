@@ -30,3 +30,17 @@
 /ch06/CarApi/obj
 /ch06/CarApi/.vs/CarApi/FileContentIndex
 /ch06/CarApi/.vs
+/ch07/MachineLearning/.vs
+/ch07/MachineLearning/MachineLearning/bin/Debug/net8.0
+/ch07/MachineLearning/MachineLearning/obj
+/ch07/MachineLearning/SampleML_WebApi/bin/Debug/net6.0
+/ch07/MachineLearning/SampleML_WebApi/obj
+/ch08/SampleAspireApp/.vs/SampleAspireApp
+/ch08/SampleAspireApp/SampleAspireApp.ApiService/bin/Debug/net8.0
+/ch08/SampleAspireApp/SampleAspireApp.ApiService/obj
+/ch08/SampleAspireApp/SampleAspireApp.AppHost/bin/Debug/net8.0
+/ch08/SampleAspireApp/SampleAspireApp.AppHost/obj
+/ch08/SampleAspireApp/SampleAspireApp.ServiceDefaults/bin/Debug/net8.0
+/ch08/SampleAspireApp/SampleAspireApp.ServiceDefaults/obj
+/ch08/SampleAspireApp/SampleAspireApp.Web/bin/Debug/net8.0
+/ch08/SampleAspireApp/SampleAspireApp.Web/obj
